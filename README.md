@@ -15,22 +15,23 @@ The following tables show the resources and details of the Corpus and W.
     </tr>
     <tr align="center">
         <td rowspan="2">English</td>
-        <td><a href="">NewYork Times (2005-2006)</a></td>
+        <td><a href="https://drive.google.com/file/d/1IPF3IzNDVASysctL3sjKB6YLidxIHV5m/view?usp=sharing">NewYork Times (2005-2006)</a></td>
     </tr>
     <tr align="center">
-        <td><a href="">Gutenberg</a></td>
+        <td><a href="https://web.eecs.umich.edu/~lahiri/gutenberg_dataset.html">Gutenberg</a></td>
     </tr>
     <tr align="center">
         <td>German</td>
-        <td><a href="">Parallel Corpus for German</a></td>
+        <td><a href="https://drive.google.com/file/d/1mNgEyKJJtILiTspBZWwJcFcxWOoLJavG/view?usp=sharing">Parallel Corpus for German</a></td>
     </tr>
     <tr align="center">
         <td>Chinese</td>
-        <td><a href="">Wikipedia for Chinese</a></td>
+        <td><a href="https://dumps.wikimedia.org/zhwiki/latest/">Wikipedia for Chinese</a></td>
     </tr>
 </table>
 
-
+The details of our ground truth are listed as following:
+![](https://github.com/LoraineYoko/word_difficulty/blob/master/figure/GT.png)
 
 ## Results
 Due to the limitation of the paper, all the experimental results are shown here.
