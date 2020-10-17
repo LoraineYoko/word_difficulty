@@ -31,6 +31,7 @@ The following tables show the resources and details of the Corpus and W.
 </table>
 
 The details of our ground truth are listed as following:
+
 ![](https://github.com/LoraineYoko/word_difficulty/blob/master/figure/GT.png)
 
 ## Results
